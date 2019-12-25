@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">1718139_ruslin</string>
+    <string name="app_name" translatable="false">1718139_ruslin</string>
+    <string name="following" translatable="false">Following</string>
+    <string name="follower" translatable="false">Follower</string>
+    <string name="post" translatable="false">Post</string>
+    <string name="about_me" translatable="false">ABOUT ME</string>
+    <string name="don_t_give_up_know_that_allah_is_directing_your_steps" translatable="false">Don\'t give up, Know that Allah is directing your steps</string>
+    <string name="itn_malang_informatics_17" translatable="false">ITN MALANG Informatics \'17</string>
 </resources>
